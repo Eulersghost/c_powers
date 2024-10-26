@@ -19,4 +19,6 @@ int will keep to integers and chop off decimal numbers
 
 {} for int data types compiler will spit out an error about the data type whereas a braced initializer () will just run the code and chop off information from the initializer.
 
-#
+# data types that I need to remember 
+   -this is a task to do that has to be done 
+   
